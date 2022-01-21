@@ -1,0 +1,45 @@
+body {
+  background-color: #a3a3a3;
+}
+.tab {
+  display: block;
+  margin: auto;
+  width: 20%;
+}
+.tab tr {
+  width: 100%;
+  height: auto;
+}
+.container {
+  width: 60%;
+  margin: auto;
+  display: block;
+}
+
+button {
+  width: 100%;
+  height: auto;
+  background-color: #ffffff;
+  border: none;
+  border-radius: 5mm;
+  font-size: 1.4em;
+  font-weight: 600;
+  font-family: "Courier New", Courier, monospace;
+}
+button:hover {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.h2,
+h1 {
+  font-size: 1.8em;
+  font-weight: 600;
+  font-family: "Courier New", Courier, monospace;
+}
+.letter,
+.number {
+  font-size: 1.2em;
+  font-weight: 200;
+  font-family: "Courier New", Courier, monospace;
+}
